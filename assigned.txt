@@ -1,0 +1,6 @@
+Freddy_FNAF => Milosz
+Wiertarka => Ibuki
+Bartolomeo_Jakis => Mr_Czekolada
+Milosz => Freddy_FNAF
+Mr_Czekolada => Wiertarka
+Ibuki => Bartolomeo_Jakis
